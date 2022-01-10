@@ -1,7 +1,4 @@
 <p align="center">
-  <img width="320" src="https://cp5.sgp1.cdn.digitaloceanspaces.com/zoro/laravue-cdn/laravue-logo-line.png">
-</p>
-<p align="center">
   <a href="https://laravel.com">
     <img src="https://img.shields.io/badge/laravel-6.2-brightgreen.svg" alt="vue">
   </a>
@@ -16,13 +13,6 @@
   </a>
 </p>
 ## Getting started
-
-### Prerequisites
-
- * Laravue is positioned as an enterprise management solution, and it is highly recommended to use it to start from scratch.
- * For existing Laravel project, you should check [Laravue Core](https://github.com/tuandm/laravue-core) for integration.
- * Your machine needs to be ready for the latest [Laravel](https://laravel.com/docs/6.x#installation) and [Node.js](https://nodejs.org).
-
 
 ### Installing
 ```bash
